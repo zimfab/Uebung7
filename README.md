@@ -16,7 +16,7 @@ Editieren sie anschliessend diese Datei indem sie ihren Namen unten eintragen (N
 
 ##F
 
-##G
+##G Gummibär :P
 
 ##H
 
