@@ -43,7 +43,7 @@ Philipp Sebastian - theSeppi
 ##R
 
 ##S
-Schneider Lukas, Debora Steffen - dsteff
+Schneider Lukas, Steffen Debora - dsteff
 ##T
 
 ##U
