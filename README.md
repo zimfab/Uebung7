@@ -44,9 +44,13 @@ Philipp Sebastian - theSeppi
 ##R
 
 ##S
-Schneider Lukas, Steffen Debora - dsteff, Senft Tobias - TobiasSenft
+Schneider Lukas
+Steffen Debora - dsteff
+Senft Tobias - TobiasSenft
+
 ##T
 Tran Lisa - zeryetia
+
 ##U
 
 ##V
