@@ -5,7 +5,7 @@ Stellen sie als erstes oben die Einstellung auf "Watch", damit die Tutoren der V
 Editieren sie anschliessend diese Datei, indem sie ihren Namen unten eintragen (Nachname Vorname - GitHub Alias)
 
 ##A
-
+Antoniadis Nadia - nadiaantoniadis
 ##B
 Beispiel Name - Alias
 
