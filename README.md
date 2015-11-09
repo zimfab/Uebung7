@@ -4,6 +4,8 @@ Stellen sie als erstes oben die Einstellung auf "Watch", damit die Tutoren der V
 
 Editieren sie anschliessend diese Datei, indem sie ihren Namen unten eintragen (Nachname Vorname - GitHub Alias)
 
+Achtung: Zum Erhalt der Punkte für diese Aufgabe muss nur dieses Readme editiert werden, dh es sollte KEIN Fork oder Pull request gemacht werden.
+
 ##A
 Antoniadis Nadia - nadiaantoniadis
 ##B
@@ -17,6 +19,7 @@ Beispiel Name - Alias
 
 ##F
 Fürstenberger Jonas - neitroch
+
 Fürst BROnas- jonasfuerst
 
 ##G 
