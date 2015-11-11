@@ -13,7 +13,7 @@ Beispiel Name - Alias
 
 Büchner Clemens - ClemensBuechner
 
-Beyeler Tobias - tobias.beyeler@stud.unibas.ch
+Beyeler Tobias - tbeyeler
 
 ##C
 
